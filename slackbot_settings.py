@@ -1,0 +1,3 @@
+API_TOKEN = 'xoxb-1842728748868-2121656532305-ze3ZurBTWwmRdd5SdHamy5Rx'
+DEFAULT_REPLY = 'おみくじを引いてみては？'
+PLUGINS = ['plugins']
